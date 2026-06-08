@@ -9,7 +9,7 @@ Note:
 #### The json parameter automatically converts your Python dictionary to JSON format
 #### Some APIs require <b>authentication</b> via API keys in the headers
 
-or simply .post() contains 3 things:
-    -> URL
-    -> headers : contains content-types
-    ->json params
+or simply .post() contains 3 things:\
+    -> URL\
+    -> headers : contains content-types\
+    -> json params
